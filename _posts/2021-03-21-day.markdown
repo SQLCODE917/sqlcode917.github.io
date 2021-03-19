@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "日 - Day"
+date:  2021-03-18 22:09:59
+---
+ 
+# Day
+
+## 日 ri(4)
+
+Pictogram of the Sun. A dot or line was added in the centre to distinguish it from visually similar characters, e.g. 囗 (early form of 丁).  
+(n) the Sun  
+(n) day
+
+## 日
+
+kun: ひ, -び, -か  
+on: ニチ, ジツ
+
+day, sun, Japan, counter for days
