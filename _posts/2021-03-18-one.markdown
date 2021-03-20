@@ -8,11 +8,12 @@ date:  2021-03-18 23:16:59
 
 ## 一 yi(1)
 
-Ideograph representing one. In combination can represent the horizon, a bar or line, or heaven  
-(n) one
+Ideograph representing one.
+In combination can represent the horizon, a bar or line, or heaven.
+(number) one
 
 ## 一
 
 kun: ひと-, ひと.つ  
 on: イチ, イツ
-(n) one
+(number) one

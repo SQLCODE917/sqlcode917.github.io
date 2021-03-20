@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "国 - Country"
+date:  2021-03-19 21:17:00
+---
+
+# Country
+
+## 國[国] guo(2)
+
+Region **或**(phonetic) encompassed **口**. Simplified form uses jade **玉**.
+
+- **或** huo(4) - Lance **戈**, encompass **口**, and land represented by **一**.
+(n) region
+    - **戈** ge(1) - Stake **弋** with a horizontal **一** blade.
+    (n) halberd, lance
+    - **弋** yi(4) - Pictograph of a stake.
+    (ancient) stake (v) shoot
+    - **一** yi(1) - Ideograph representing one.
+    In comparison can represent the horizon, a bar or line, or heaven.
+    (number) one
+- **口** wei(2) - Ideograph representing an enclosure.  
+- **玉** yu(4) - Three pieces of jade strung together.
+Dot, not added in composition, distinguishes it from **王**.
+(n) jade
+    - **王** wang(2) - The one 一 who connects heaven, humanity and earth **三**.
+    (n) king (surname) a surname
+    - **三** san(1) - Ideograph representing heaven, earth, and humanity.
+    (number) three
+
+## 国
+
+kun: くに  
+on: コク  
+(n) country
