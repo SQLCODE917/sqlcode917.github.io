@@ -28,6 +28,8 @@ Dot, not added in composition, distinguishes it from **王**.
     - **三** san(1) - Ideograph representing heaven, earth, and humanity.
     (number) three
 
+______
+
 ## 国
 
 kun: くに  

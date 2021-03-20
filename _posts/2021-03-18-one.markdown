@@ -12,6 +12,9 @@ Ideograph representing one.
 In combination can represent the horizon, a bar or line, or heaven.
 (number) one
 
+
+______
+
 ## 一
 
 kun: ひと-, ひと.つ  
