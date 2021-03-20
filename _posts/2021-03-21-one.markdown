@@ -13,6 +13,6 @@ Ideograph representing one. In combination can represent the horizon, a bar or l
 
 ## 一
 
-kun: ひと-, ひと.つ
+kun: ひと-, ひと.つ  
 on: イチ, イツ
 (n) one
