@@ -21,7 +21,7 @@
 title: 国语こ (Mandarinko)
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Learn top 2000 Chinese and Japanese characters, their definitions and derivations
+    Learn top 2000 Traditional[and Simplified] Chinese and Japanese characters, their definitions and derivations
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
