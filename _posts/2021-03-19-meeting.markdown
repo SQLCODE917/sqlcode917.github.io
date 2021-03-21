@@ -4,13 +4,13 @@ title:  "会 - To Meet"
 date:  2021-03-19 21:17:00
 ---
 
-# Meeting
+# To Meet
 
 ## 會[会] hui(4)
 
-Pictogram - double **曾**(abbreviated) together under a roof
-(n) meeting, conference, association, society
-(v) to meet, can, be able to
+Pictogram - double **曾**(abbreviated) together under a roof  
+(n) meeting, conference, association, society  
+(v) to meet, can, be able to  
 
 - **曾** ceng(2) - Separate **八** words **曰** with window **囪** (altered) phonetic and suggestive of clarity
 (adj) repeated, doubled
@@ -24,7 +24,7 @@ Pictogram - double **曾**(abbreviated) together under a roof
 
 ## 会
 
-kun: あ.う, あ.わせる, あつ.まる
-on: カイ, エ
-(n) meeting, party, association, interview
-(v) to meet, to join
+kun: あ.う, あ.わせる, あつ.まる  
+on: カイ, エ  
+(n) meeting, party, association, interview  
+(v) to meet, to join  
