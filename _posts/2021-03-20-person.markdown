@@ -9,7 +9,7 @@ date:  2021-03-19 21:17:00
 ## 人 ren(2)
 
 Pictograph of a human  
-(n) human  
+(n) human, person, people
 
 ------
 

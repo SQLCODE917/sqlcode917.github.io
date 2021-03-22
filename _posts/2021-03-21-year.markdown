@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "年 - Year"
+date:  2021-03-21 21:17:00
+---
+
+# Year
+
+## 年 nian(2)
+
+Thousands **千** (phonetic) of grains **禾** (altered)  
+(n) year
+
+- **千** qian(1) - Ten **十** lifespans of a **人** person
+(number) thousand
+    - **十** shi(2) - Idiograph representing the four directions and the center.
+    (adj) complete (number) ten
+    - **人** ren(2) - Pictograph of a human
+    (n) human, person, people
+- **禾** he(2) - Pictograph of a grain-bearing plant
+(n) grain on the stalk
+
+-----
+
+## 年
+
+kun: とし  
+on: ネン
