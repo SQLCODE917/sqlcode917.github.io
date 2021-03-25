@@ -17,3 +17,5 @@ Pictograph of a human
 
 kun: ひと, -り, -と  
 on: ジン, ニン
+
+(n) person

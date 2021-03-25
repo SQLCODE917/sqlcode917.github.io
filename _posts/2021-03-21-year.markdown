@@ -26,3 +26,5 @@ Thousands **千** (phonetic) of grains **禾** (altered)
 
 kun: とし  
 on: ネン
+
+(n) year, counter for years

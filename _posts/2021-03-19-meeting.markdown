@@ -25,6 +25,7 @@ Pictogram - double **曾**(abbreviated) together under a roof
 ## 会
 
 kun: あ.う, あ.わせる, あつ.まる  
-on: カイ, エ  
+on: カイ, エ
+
 (n) meeting, party, association, interview  
 (v) to meet, to join  
