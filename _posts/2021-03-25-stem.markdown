@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "本 - stem"
+date:  2021-03-25 21:17:00
+---
+
+# Stem
+
+## 本 ben(3)
+
+Tree **木** with its bottom highlighted with an extra stroke, accentuating the roots  
+(n) stem, root, basis, origin, principal, capital, edition  
+(adj) original, personal, own  
+(pronoun) this  
+(measure word) measure word for books  
+
+- **木** mu(4) - Pictograph of a tree (n) tree, wood  
+
+------
+
+## 本
+
+kun: もと  
+on: ホン  
+
+(n) book  
+(adj) present, main, true, real  
+(measure word) measure word for long cylindrical things

@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "长 - Long"
+date:  2021-03-27 21:17:00
+---
+
+# Long
+
+## 長[长] chang(2) zhang(3)
+
+Early form shows high table **兀**, changed person **匕**, and death **亡**(phonetic)  
+(n) duration, length  
+(adj) long  
+(n) strength, forte zhang(3)  
+(v) to grow  
+(adj) senior  
+(surname) a surname
+
+- **兀** wu(4) - Flat surface supported by legs
+(adj) high and level
+(n) stool
+- **匕** bi(4) - Person **人** turned around
+    - **人** ren(2) - Pictograph of a human
+    (n) human, person, people
+- **亡** wang(2) - Enter **入** conceled **乚** place
+(v) to flee, to die
+    - **入** ru(4) - Pictograph of roots descending into the earth
+    (v) to enter
+    - **乚** yin(3) - Pictograph suggesting a curve or corner
+    (ancient) conceal, cover
+
+------
+
+## 長
+
+kun: なが.い, おさ  
+on: チョウ  
+
+(adj) long
+(n) leader

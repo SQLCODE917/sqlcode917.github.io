@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "中 - Middle"
+date:  2021-03-26 21:17:00
+---
+
+# Middle
+
+## 中 zhong(1) zhong(4)
+
+Line **丨** bisecting and enclosure **口**  
+(n) center, middle  
+(preposition) among  
+(adj) medium  
+(v) strike, hit (a target), to be struck  
+
+- **丨** gen(3) - Ideograph representing vertical things  
+- **口** wei(2) - Ideograph representing an enclosure
+
+-----
+
+## 中
+
+kun: なか, うち, あた.る  
+on: チュウ  
+
+(n) in, inside, middle, mean, center
