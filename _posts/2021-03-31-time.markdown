@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "时 - Time"
+date:  2021-03-31 21:17:00
+---
+
+# Time
+
+## 時[时] shi(2)
+
+Sun **日** with **寺** phonetic.  
+(n) time, hour  
+(measure word) o'clock  
+(adj) current
+
+- **日** ri(4) - Pictogram of the Sun. A dot or line was added in the centre to distinguish it from visually similar characters, e.g. **囗** (early form of **丁**).  
+ - **寺** si(4) - Develops **之** (phonetic, now written variously as **士** or **土**) laws **寸** 
+     - **之** zhi(1) - Plant **屮** (altered) rising from the ground **一**.
+     (v) to go
+     (particle) of
+     (pro) it (used only as an object)
+     - **屮** che(4) - Pictograph of a sprouting plant
+     - **寸** cun(4) - Hand **又** with the dot representing point one inch from wrist where pulse is felt.
+     In composition can represent hand or law.
+     (measure word) inch
+     - **又** you(4) - Pictograph of the right hand.
+     (adv) again, both ... and, also
+
+-----
+
+## 時
+
+kun: とき, -どき  
+on: ジ  
+
+(n) time, hour
