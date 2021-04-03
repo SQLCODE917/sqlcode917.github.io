@@ -9,11 +9,12 @@ date:  2021-03-28 21:17:00
 ## 出 chu(1)
 
 Pictograph of a sprouting plant  
-(v) to produce
-(v) to exit
-(v) to issue, to put forward
-(v) to happen
-(v) to exceed
+(v) to produce,
+to exit,
+to issue,
+to put forward,
+to happen,
+to exceed 
 
 -----
 

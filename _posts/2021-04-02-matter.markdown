@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "事 - Matter"
+date:  2021-04-02 21:17:00
+---
+
+# Matter
+
+## 事 shi(4)
+
+Scribe **史** with **之**(abbreviated) phonetic.  
+(n) job, occupation, affair, matter, business
+
+- **史** shi(3) - Hand **又**(altered) holding a fountain pen resembling **中**.
+(ancient) scribe
+(n) history
+(surname) a surname
+    - **又** you(2)- Pictograph of the right hand.
+    (adv) again.
+    - **中** zhong(1) - Line **丨** bisecting an enclosure **口**.
+    (n) center, middle
+    (preposition) among
+    (adj) medium
+    - **丨** gun(3) - Ideograph representing vertical things.
+    - **口** wei(2) - Ideograph representing an enclosure.
+- **之** zhi(1) - Plant **屮** (altered) rising from the ground **一**.
+(v) to go
+(particle) of
+(pronoun) it (used only as the object)
+    - **屮** che(4) - Pictograph of a sprouting plant.
+
+------
+
+## 事
+
+kun: こと, つか.う, つか.える  
+on: ジ, ズ
+
+(n) matter, thing, fact, business, reason  
+(adv) possibly
