@@ -1,22 +1,29 @@
 ---
 layout: post
-title:  "月 - Moon"
-date:  2021-04-07 21:17:00
+title:  "分 - Minute"
+date:  2021-04-08 21:17:00
 ---
 
-# Moon
+# Minute
 
-## 月 yue(4)
+## 分 fen(1) fen(4) 
 
-Pictograph of a crescent moon.  
-(n) month  
-(measure word) measure word for moons
+Divide **八** with a knife **刀**.  
+(v) to separate, to distribute, to distinguish  
+(particle) point, cent  
+(measure word) measure word for minutes
+
+- **八** ba(1) - Ideograph representing division.
+(ancient) separate (number) eight
+- **刀** dao(1) - Pictograph of a knife.
+(n) knife, sword
 
 -----
 
-## 月
+## 分
 
-kun: つき  
-on: ゲツ, ガツ
+kun: わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ  
+on: ブン, フン, ブ  
 
-(n) moon, month
+(n) part, minute, segment, share, degree, one's lot, duty, rate, chances  
+(v) to understand, to know

@@ -8,7 +8,8 @@ date:  2021-03-19 21:17:00
 
 ## 國[国] guo(2)
 
-Region **或**(phonetic) encompassed **口**. Simplified form uses jade **玉**.
+Region **或**(phonetic) encompassed **口**. Simplified form uses jade **玉**.  
+(n) country, nation
 
 - **或** huo(4) - Lance **戈**, encompass **口**, and land represented by **一**.
 (n) region
