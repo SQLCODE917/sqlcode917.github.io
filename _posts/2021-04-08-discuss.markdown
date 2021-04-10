@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "议 - Discuss"
+date:  2021-04-08 21:17:00
+---
+
+# Discuss
+
+## 議[议] yi(4)
+
+Words **言** that are proper **義** (phonetic).  
+(v) to discuss  
+(n) opinion
+
+- **言** yan(2) - Crime of the mouth **口**.
+(n) word
+(v) to speak
+- **義[义]** yi(4) - Sheep **羊** with **我** phonetic.
+(adj) dignified, proper
+(n) justice, meaning
+    - **羊** yang(2) - Pictograph of a sheep with horns.
+    (n) sheep
+    - **我** wo(4) - Hand **手** holding a halberd **戈**.
+    (pronoun) I
+    - **手** shou(4) - Pictograph of a hand.
+    (n) hand
+    - **戈** ge(1) - Stake **弋** with a horizontal **一** blade.
+    (n) halberd, lance
+    - **弋** yi(4) - Pictograph of a stake.
+    (ancient) stake, arrow
+    (v) to shoot
+
+------
+
+## 議
+
+on: ギ  
+(n) deliberation, consultation, debate, consideration
