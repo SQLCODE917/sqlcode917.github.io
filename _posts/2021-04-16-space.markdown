@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "间 - Space"
+date:  2021-04-16 21:17:00
+---
+
+# Space
+
+## 間[间] jian(4) jian(1)
+
+Modern form shows sunlight **日** through a door **門**.  
+jian(4)  
+(n) space in between  
+(v) to divide  
+jian(1)  
+(pre) between, among  
+(n) specific space or time, room
+(measure word) counter for rooms
+
+- **日** ri(4) - Pictogram of the Sun.
+A dot or line was added in the centre to distinguish it from visually similar characters, e.g. **囗** (early form of **丁**).
+(n) the Sun
+(n) day
+- **門[门]** men(2) - Double-leafed door **戶**.
+(n) door, gate, shool of thought
+(measure word) counter for classes
+    - **戶** hu(4) - Pictograph of a door leaf.
+    (n) door, household
+
+------
+
+# 間
+kun: あいだ, ま, あい  
+on: カン, ケン  
+(n) interval, space
