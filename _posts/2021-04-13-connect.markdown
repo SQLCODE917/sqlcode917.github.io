@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "连 - Connect"
+date:  2021-04-13 21:17:00
+---
+
+# Connect
+
+## 連[连] lian(2)
+
+Carts **車** moving **辵**.  
+(v) to connect, to join  
+(adv) successively, even  
+(pre) with, including  
+
+- **車[车]** che(1) - Pictograph of a chariot viewed from above with wheels on top and bottom.
+(n) cart, chariot, vehicle
+- **辵** chuo(4) - Step **彳** and stop **止**.
+(ancient) halting movement
+    - **彳** chi(4) - Pictograph of a person taking a small step.
+    (n) step, left step
+    - **止** zhi(3) - Pictograph of a foot with protruding toes.
+    (ancient) toes
+    (v) to stop, to arrive, to limit
+
+------
+
+## 連
+
+kun: つら.なる, つら.ねる, つ.れる, -づ.れ  
+on: レン  
+(v) to take along, to lead, to join, to connect  
+(n) party, gang, clique
