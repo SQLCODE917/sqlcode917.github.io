@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "发 - Launch"
+date:  2021-04-15 21:17:00
+---
+
+# Launch
+
+## 發[发] fa(1)
+
+Bow **弓** opening path (phonetic, ancient character showing stamp **殳** with the feet **癶**).  
+(v) to launch, to shoot, to issue, to distribute, to become, to occur, to express, to utter
+
+- **弓** gong(1) - Pictograp of a bow.
+(n) bow, arc
+(measure word) five feet
+- **殳** shu(1) - Hand **又** flapping. (ancient) strike with stick (n) halberd
+    - **又** you(4) - Pictograph of the right hand.
+    (adv) again, both ... and
+- **癶** bo(2) - Feet **止** (abbreviated) in opposite directions.
+    - **止** zhi(3) - Pictograph of a foot with protruding toes.
+    (ancient) toes
+    (v) to stop, to arrive, to limit
+
+------
+
+## 發[発]
+
+kun: た.つ, あば.く, おこ.る, つか.わす, はな.つ  
+on: ハツ, ホツ  
+(v) to discharge, to publish, to emit, to start from, to disclose  
+(n) departure  
+(measure word) counter for gunshots
