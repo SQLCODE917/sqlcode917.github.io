@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "对 - Correct"
+date:  2021-04-17 21:17:00
+---
+
+# Correct
+
+## 對[对] dui(2)
+
+Foliage **丵**, sage **士**, and measure **寸**.
+Simplified form uses **又**.  
+(adj) correct, right, proper  
+(v) to face, to oppose, to treat, to compare, to check  
+(measure word) counter for couples
+
+- **丵** zhuo(2) - Pictograph of branches and foliage.
+- **士** shi(4) - Person who knows all from one **一** to ten **十**.
+(n) scholar, gentleman, NCO, person
+    - **一** yi(1) - Ideograph representing one.
+    (number) one
+    - **十** shi(4) - Ideograph indicating the four directions and the center.
+    (adj) complete
+    (number) ten
+- **寸** cun(4) - Hand **又** with the dot representing point one inch from thhe wrist where pulse if felt.
+In composition can represent hand or law.
+(measure word) inch
+- **又** you(4) - Pictograph of the right hand.
+(adv) again, both ... and
+
+------
+
+# 對[対]
+
+kun: あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う  
+on: タイ, ツイ  
+(n) vis-a-vis  
+(adj) opposite, even, equal  
+(pre) versus, anti-  
+(v) to compare  

@@ -30,6 +30,7 @@ A dot or line was added in the centre to distinguish it from visually similar ch
 ------
 
 # 間
+
 kun: あいだ, ま, あい  
 on: カン, ケン  
 (n) interval, space
