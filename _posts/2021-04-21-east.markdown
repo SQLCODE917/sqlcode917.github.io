@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "东 - East"
+date:  2021-04-21 21:17:00
+---
+
+# East
+
+## 東[东] dong(1)
+
+Sun **日** rising behind a tree **木**.  
+(n) East, host, owner
+
+- **日** ri(4) - Pictogram of the Sun.
+A dot or line was added in the centre to distinguish it from visually similar characters, e.g. **囗** (early form of **丁**).
+(n) the Sun, day
+- **木** mu(4) - Pictograph of a tree.
+(n) tree, wood
+
+------
+
+## 東
+
+kun: ひがし  
+on: トウ  
+(n) East
