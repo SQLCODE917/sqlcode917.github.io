@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "市 - Market"
+date:  2021-04-26 21:17:00
+---
+
+# Market
+
+## 市 shi(4)
+
+Distant lands **冂** and an early form of accumulate **及** with **之**(altered) phonetic.  
+(n) market, city
+
+- **冂** jiong(3) - Ideograph representing outer limits.
+(ancient) countryside, wilds
+- **及** ji(2) - Hand **又** grabbing a person **人**.
+(v) to reach, to attain
+(con) and
+- **之** zhi(1) - Plant **屮**(altered) rising from the ground **一**.
+(v) to go
+(particle) of
+(pro) it (used only as an object)
+    - **屮** che(4) - Pictograph of a sprouting plant
+    - **一** yi(1) - Ideograph representing one.
+    In combination can represent the horizon, a bar or line or heaven.
+    (number) one
+
+------
+
+## 市
+
+kun: いち  
+on: シ  
+(n) market, city, town
