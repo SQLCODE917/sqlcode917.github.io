@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "四 - Four"
+date:  2021-05-02 21:17:00
+---
+
+# Four
+
+## 四 si(4)
+
+Pictograph of a square **囗** divided **八** into parts.
+(number) four
+
+- **囗** wei(2) - Ideograph representing an enclosure.
+- **八** ba(1) - Ideograph representing division.
+(ancient) separate
+(number) eight
+
+------
+
+## 四
+
+kun: よ, よ.つ, よっ.つ, よん  
+on: シ  
+(number) four
