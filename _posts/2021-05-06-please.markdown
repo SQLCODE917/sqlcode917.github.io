@@ -1,0 +1,57 @@
+---
+layout: post
+title: "请 - Please"
+date: 2021-05-06 21:17:00
+---
+
+# Please
+
+## 請[请] qing(3)
+
+Words **言** with **青** phonetic and suggestive of feelings **情**.  
+(v) request, ask  
+(polite) please  
+
+- **言** yan(2) - Crime of the mouth **口**.  
+(n) word  
+(v) to speak  
+- **青** qing(1) - Color of lush growth **生** that burns red **丹**.  
+(adj) green, blue  
+(adj) young  
+
+    - **生** sheng(1) - Pictograph of a plant rising from the ground **土**.  
+    (v) to grow, to give birth to, to produce  
+    (adj) fresh, unripe, raw  
+    - **丹** dan(1) - A red mineral, represented by the dot, found in a mine/well **井** (altered).  
+    (adj) red  
+    - **井** jing(3) - Pictograph of a field divided into lots with a well in the center.  
+    (n) well  
+    (surname) a surname  
+    - **土** tu(3) - Pictograph of object rising through the earth.  
+    (n) soil, earth, dirt, ground, land  
+    (adj) uncultured  
+- **情** qing(2) - Heart **心** with **青** phonetic.  
+(n) love  
+(n) feelings  
+(n) situation, condition  
+    - **心** xin(2) - Pictograph of a heart.  
+    (n) heart  
+    (n) mind  
+    (n) feelings  
+    (n) center, middle  
+
+
+------
+
+## 請
+
+Go-on: しょう, じょう  
+Kan-on: せい  
+Kan'yō-on: しん  
+Kun: こう, うける  
+Nanori: うけ  
+(v) beg, ask  
+(v) ask, request  
+(v) entertain sincerely  
+(v) (普請) donate to constructing a temple or a shrine  
+(v) receive 
