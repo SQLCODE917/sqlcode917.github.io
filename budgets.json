@@ -1,0 +1,14 @@
+{
+  "sizes": {
+    "javascript": 49279,
+    "css": 2399,
+    "html": 4029,
+    "dictionary": 200143
+  },
+  "limits": {
+    "javascript": 102400,
+    "css": 20480,
+    "html": 40960,
+    "dictionary": 307200
+  }
+}
